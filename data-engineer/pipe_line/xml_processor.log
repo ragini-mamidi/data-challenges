@@ -1,0 +1,30 @@
+2024-10-27 22:04:22,295 - ERROR - Directory data_engineer\data not found.
+2024-10-27 22:04:22,306 - INFO - Audit Data saved to table 'events_audit' in database 'my_database.db' with pipeline ID: 696fbffc-0e65-4049-8b78-c224eab7d62f.
+2024-10-27 22:04:22,306 - WARNING - DataFrame is empty. No windows can be created.
+2024-10-27 22:04:22,307 - INFO - Processed data into structured RO format.
+2024-10-27 22:15:13,956 - ERROR - Directory data_engineer/data not found.
+2024-10-27 22:15:13,961 - INFO - Audit Data saved to table 'events_audit' in database 'my_database.db' with pipeline ID: 724f55c9-36fe-4daf-ba4a-223a078a4761.
+2024-10-27 22:15:13,961 - WARNING - DataFrame is empty. No windows can be created.
+2024-10-27 22:15:13,962 - INFO - Processed data into structured RO format.
+2024-10-27 22:15:52,934 - ERROR - Directory data_engineer/data not found.
+2024-10-27 22:15:52,947 - INFO - Audit Data saved to table 'events_audit' in database 'my_database.db' with pipeline ID: f4cce502-5807-4012-8ac5-5327ab53a6e1.
+2024-10-27 22:15:52,948 - WARNING - DataFrame is empty. No windows can be created.
+2024-10-27 22:15:52,949 - INFO - Processed data into structured RO format.
+2024-10-27 22:16:26,899 - INFO - Processed event from file 'shard_08.xml'. 
+2024-10-27 22:16:26,899 - INFO - Processed event from file 'shard_09.xml'. 
+2024-10-27 22:16:26,900 - ERROR - Error processing shard_13.xml with pipeline ID: f88b6412-7743-4e11-9e62-a22374033946
+2024-10-27 22:16:26,900 - INFO - Processed event from file 'shard_07.xml'. 
+2024-10-27 22:16:26,900 - INFO - Processed event from file 'shard_06.xml'. 
+2024-10-27 22:16:26,901 - INFO - Processed event from file 'shard_12.xml'. 
+2024-10-27 22:16:26,901 - INFO - Processed event from file 'shard_04.xml'. 
+2024-10-27 22:16:26,901 - INFO - Processed event from file 'shard_10.xml'. 
+2024-10-27 22:16:26,902 - INFO - Processed event from file 'shard_11.xml'. 
+2024-10-27 22:16:26,902 - INFO - Processed event from file 'shard_05.xml'. 
+2024-10-27 22:16:26,902 - INFO - Processed event from file 'shard_01.xml'. 
+2024-10-27 22:16:26,903 - INFO - Processed event from file 'shard_02.xml'. 
+2024-10-27 22:16:26,903 - INFO - Processed event from file 'shard_03.xml'. 
+2024-10-27 22:16:26,914 - INFO - Good Data saved to table 'events' in database 'my_database.db' with pipeline ID: f88b6412-7743-4e11-9e62-a22374033946.
+2024-10-27 22:16:26,923 - INFO - Bad Data saved to table 'events_error_records' in database 'my_database.db' with pipeline ID: f88b6412-7743-4e11-9e62-a22374033946.
+2024-10-27 22:16:26,977 - INFO - Audit Data saved to table 'events_audit' in database 'my_database.db' with pipeline ID: f88b6412-7743-4e11-9e62-a22374033946.
+2024-10-27 22:16:26,995 - INFO - Grouped data by window '1D' and retrieved latest events.
+2024-10-27 22:16:26,995 - INFO - Processed data into structured RO format.
